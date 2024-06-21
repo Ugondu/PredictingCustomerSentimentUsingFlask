@@ -1,5 +1,5 @@
 # E-COMMERCE PRODUCT REVIEW SENTIMENT ANALYSER
-*"C:\Users\ADACHUKWU\OneDrive\Desktop\SentimentAnalysisImage.jpg"*
+* "C:\Users\ADACHUKWU\OneDrive\Desktop\SentimentAnalysisImage.jpg" *
 ## Table of Contents
 - [Business Problem Overview](#business-problem-overview)
 - [Project Objective](#project-objective)
