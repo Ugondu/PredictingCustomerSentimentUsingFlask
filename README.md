@@ -22,15 +22,15 @@ The aim of this project is to perform sentiment analysis on the reviews to class
 To achieve this objective, a detailed analysis of Ali Express reviews will be conducted to identify trends and preferences using pretrained models such as vADER and Supervised Machine Learning models to tag data extracted from the website. 
 
 ## Dataset Story
-	### Origin
+### Origin
 The dataset consists of Ali Express customer reviews for electronics from over a period of time and from different countries, encompassing a diverse range of customer insights and emotions over a period of time.
 ### Features:
-•	Username: Unique identifier chosen by each customer signed up to the company.
-•	Location: Geographical location of each customer that patronise the company.
-•	 Total Reviews: Total number of reviews by each customer.
-•	Date of Experience: The date customer made the review on the website.
-•	Content: The full text of the customer’s review, providing detailed feedback.
-•	Rating: The rating out of 5 stars that the reviewer has given to each product.
+* Username: Unique identifier chosen by each customer signed up to the company.
+Location: Geographical location of each customer that patronise the company.
+Total Reviews: Total number of reviews by each customer.
+Date of Experience: The date customer made the review on the website.
+Content: The full text of the customer’s review, providing detailed feedback.
+Rating: The rating out of 5 stars that the reviewer has given to each product.
 
 ## Exploratory Data Analysis
 Prior to performing exploratory data analysis, the dataset was examined for shape, missing information, data types and duplicates. Missing information and duplicates were dropped from the data set, and the date was converted to Pandas date time to ensure uniformity in the dataset.
