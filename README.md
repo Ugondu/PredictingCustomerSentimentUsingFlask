@@ -1,19 +1,19 @@
 # E-COMMERCE PRODUCT REVIEW SENTIMENT ANALYSER
-* "C:\Users\ADACHUKWU\OneDrive\Desktop\SentimentAnalysisImage.jpg"*
+*"C:\Users\ADACHUKWU\OneDrive\Desktop\SentimentAnalysisImage.jpg"*
 ## Table of Contents
-- [Business Problem Overview] (#business-problem-overview)
-- [Project Objective] (#project-objective)
-- [Dataset Story] (#dataset-story)
-- [Exploratory Data Analysis] (#exploratory-data-analysis)
-- [Data Preprocessing] (#data-preprocessing)
-- [Sentiment Analysis] (#sentiment-analysis)
-- [Evaluation Metrics and Model Comparison] (#evaluation-metrics-and-model-comparison)
-- [Model Deployment using Flask] (#model-deployment-using-flask)
-- [Challenges and Limitations] (#challenges-and-limitations)
-- [Future Work] (#future-work)
-- [Conclusion and Recommendation] (#conclusion-and-recommendation)
+- [Business Problem Overview](#business-problem-overview)
+- [Project Objective](#project-objective)
+- [Dataset Story](#dataset-story)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Preprocessing](#data-preprocessing)
+- [Sentiment Analysis](#sentiment-analysis)
+- [Evaluation Metrics and Model Comparison](#evaluation-metrics-and-model-comparison)
+- [Model Deployment using Flask](#model-deployment-using-flask)
+- [Challenges and Limitations](#challenges-and-limitations)
+- [Future Work](#future-work)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
 
-- 
+  
 ## Business Problem Overview
 Understanding customer feedback is vital for making informed business decisions about products and services, marketing strategies, and customer satisfaction. In the e-commerce sector, the large volume of customers reviews makes manual analysis of each entry impractical. To effectively and efficiently process this feedback from the customers, an automated sentiment analysis solution is needed to process and interpret customers reviews, enabling valuable insights that can aid businesses enhance their products offerings and services, ultimately leading to better customer experiences and satisfaction.
 
@@ -21,8 +21,8 @@ Understanding customer feedback is vital for making informed business decisions 
 The aim of this project is to perform sentiment analysis on the reviews to classify customer sentiments, which will assist the company in enhancing products features and customer experiences.
 To achieve this objective, a detailed analysis of Ali Express reviews will be conducted to identify trends and preferences using pretrained models such as vADER and Supervised Machine Learning models to tag data extracted from the website. 
 
-## Dataset Story
-  ### Origin
+##Dataset Story
+###Origin
 	The dataset consists of Ali Express customer reviews for electronics from over a period of time and from different countries, encompassing a diverse range of customer insights and emotions over a period of time.
 ### Features:
 •	Username: Unique identifier chosen by each customer signed up to the company.
