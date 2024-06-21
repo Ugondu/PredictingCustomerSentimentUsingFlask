@@ -21,8 +21,8 @@ Understanding customer feedback is vital for making informed business decisions 
 The aim of this project is to perform sentiment analysis on the reviews to classify customer sentiments, which will assist the company in enhancing products features and customer experiences.
 To achieve this objective, a detailed analysis of Ali Express reviews will be conducted to identify trends and preferences using pretrained models such as vADER and Supervised Machine Learning models to tag data extracted from the website. 
 
-##Dataset Story
-	###Origin
+## Dataset Story
+	### Origin
 The dataset consists of Ali Express customer reviews for electronics from over a period of time and from different countries, encompassing a diverse range of customer insights and emotions over a period of time.
 ### Features:
 •	Username: Unique identifier chosen by each customer signed up to the company.
