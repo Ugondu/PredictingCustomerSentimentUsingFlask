@@ -1,5 +1,5 @@
-# E-COMMERCE PRODUCT REVIEW SENTIMENT ANALYSER
-* "C:\Users\ADACHUKWU\OneDrive\Desktop\SentimentAnalysisImage.jpg" *
+# Analysing Customer Sentiments on an E-Commerce Website using vADER and Machine Learning Models.
+![SentimentAnalysisImage](https://github.com/Ugondu/CustomerSentimentAnalyzer/assets/113315492/2d58baba-9f10-4fea-8e76-8a1e10fca9f0)
 ## Table of Contents
 - [Business Problem Overview](#business-problem-overview)
 - [Project Objective](#project-objective)
